@@ -18,5 +18,5 @@ I'm interested in UI/UX design, AI and building real-world apps.
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=asm&logoColor=white)
+![SM213 Assembly](https://img.shields.io/badge/SM213%20Assembly-525252?style=for-the-badge)
 
