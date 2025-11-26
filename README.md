@@ -3,8 +3,8 @@
 <!--
 **sabrinayuan07-cloud/sabrinayuan07-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-I'm Sabrina and I'm a 3rd year student in Cognitive Systems at UBC. 
-I'm interested in UI/UX design, AI and building real-world apps.
+## I'm Sabrina and I'm a 3rd year student in Cognitive Systems at UBC. 
+## I'm interested in UI/UX design, AI and building real-world apps.
 
 ### 🛠️ Languages & Tools
 
