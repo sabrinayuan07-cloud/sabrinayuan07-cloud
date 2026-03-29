@@ -1,6 +1,6 @@
 ## Hello World :)
 
-I'm Sabrina and I'm a 3rd year student in Cognitive Systems at UBC. 
+Hi I'm Sabrina and I'm a 3rd year student studying Cognitive Systems at UBC. 
 I'm interested in UI/UX design, AI and building real-world apps.
 
 ### 🛠️ Languages & Tools
